@@ -68,4 +68,3 @@ function isEmailValid(email) {
 function isUsernameValid(username) {
     return /^[a-z_]+$/.test(username);
 }
-© 2021 GitHub
